@@ -1,6 +1,6 @@
-# go-exercises
+# Go programming language exercises
 
-The repository contains some exercises implementations and code exploration for the `go` language.
+This repository contains some exercises implementations and code exploration for the `go` language.
 
 ## Executing the exercises
 
