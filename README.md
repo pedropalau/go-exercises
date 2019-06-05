@@ -1,9 +1,5 @@
 # go-exercises
 
-```
-This is a WIP repository
-```
-
 The repository contains some exercises implementations and code exploration for the `go` language.
 
 ## Executing the exercises
