@@ -8,7 +8,7 @@ The repository contains some exercises implementations and code exploration for 
 
 ## Executing the exercises
 
-For executing the exercises, is required to have the `go` [compiler](https://golang.org/doc/install/source#go14) correclty installed on your system.
+For executing the exercises, is required to have the `go` [compiler](https://golang.org/doc/install/source#go14) correctly installed on your system.
 
 To execute an exercise you can use the command:
 
