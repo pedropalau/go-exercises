@@ -1,5 +1,7 @@
 # Go programming language exercises
 
+[![Build Status](https://travis-ci.org/peterpalau/go-exercises.svg?branch=master)](https://travis-ci.org/peterpalau/go-exercises)
+
 This repository contains some exercises implementations and code exploration for the `go` language.
 
 ## Executing the exercises
