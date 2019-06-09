@@ -13,3 +13,15 @@ $ go run [filename].go
 ```
 
 Where `filename` is the name of the file you want to execute.
+
+### Using `golint`
+
+[Golint](https://github.com/golang/lint) is a linter for Go source code. 
+
+For using it, invoke `golint` with one or more filenames, directories, or packages named by its import path.
+
+Golint uses the same import path syntax as the go command and therefore also supports relative import paths like `./....` Additionally the `...` wildcard can be used as suffix on relative and absolute file paths to recurse into them.
+
+```
+$ golint [filename].go
+```
