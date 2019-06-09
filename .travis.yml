@@ -1,0 +1,11 @@
+language: go
+
+go:
+  - tip
+
+script: make ci
+
+matrix:
+  allow_failures:
+    - go: tip
+  fast_finish: true
