@@ -4,6 +4,12 @@
 
 This repository contains some exercises implementations and code exploration for the `go` language.
 
+## Resources
+
+List of useful reads and resources about Go language and related tools.
+
+- [The Go Playground](https://play.golang.org/)
+
 ## Executing the exercises
 
 For executing the exercises, is required to have the `go` [compiler](https://golang.org/doc/install/source#go14) correctly installed on your system.
